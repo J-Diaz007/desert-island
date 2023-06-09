@@ -1,0 +1,10 @@
+body {
+    background-color: lightyellow;
+    display: flex;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
